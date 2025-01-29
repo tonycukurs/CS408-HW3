@@ -1,17 +1,13 @@
-# web-dev-starter
+# CS-HW3
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is a project based around typing html. It is to format the html to the email in the hw module for week 3.
 
 ## Getting Started
 
-To get started, clone this repository and run the following commands:
+To get started, clone this repository and then use the Live Preview button in the top right corner of the window to view the
+webpage.
 
-```bash
-npm install
-```
-This will install the necessary dependencies for the project.
+
 
 ## Development
 
